@@ -1,0 +1,1 @@
+import webbrowser\r\nwebbrowser.open_new('https://customvideogames.github.io/marioDimensions/
